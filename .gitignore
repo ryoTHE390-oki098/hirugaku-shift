@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+
+# Local database and backups
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Local secrets / account notes
+supabase.local.json
+password系.txt
+アカウント管理.txt
+.env
+.env.*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
